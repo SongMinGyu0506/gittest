@@ -12,8 +12,12 @@ for i in student_list:
                 rank += 1
     print(rank, end = " ")
 
+<<<<<<< HEAD
 print("this is test1 branch")
 
+=======
+print("this is test2 branch")
+>>>>>>> test2
 '''input_d = int(input())
 student_list = []
 
