@@ -12,6 +12,7 @@ for i in student_list:
                 rank += 1
     print(rank, end = " ")
 
+print("this is test2 branch")
 '''input_d = int(input())
 student_list = []
 
